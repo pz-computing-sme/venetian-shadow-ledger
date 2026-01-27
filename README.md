@@ -28,7 +28,7 @@ Each cycle calculates the **Asset Dilution Ratio**, showing the exact point wher
 2. Install requirements:  
    `pip install -r requirements.txt`
 3. Run the dashboard:  
-   `streamlit run app.py`
+   `streamlit run venetian_logic.py`
 
 ---
 *Developed as a demonstration of Applied Logic, Financial Engineering, and Quantitative Analysis by **Vitor Pozza**.*
