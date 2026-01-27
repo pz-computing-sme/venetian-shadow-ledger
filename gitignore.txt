@@ -1,0 +1,18 @@
+# Python bytecode and technical cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Windows system junk files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDEs and Streamlit configuration
+.streamlit/
+.vscode/
+.idea/
