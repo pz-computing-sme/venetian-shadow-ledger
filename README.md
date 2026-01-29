@@ -1,3 +1,5 @@
+![Wake Up App](https://github.com/pz-computing-sme/global-cocoa-market-analytics/actions/workflows/keep_alive.yml/badge.svg)
+
 # 🏛️ The Venetian Protocol: Shadow Ledger Dashboard
 
 ## 📊 Overview
