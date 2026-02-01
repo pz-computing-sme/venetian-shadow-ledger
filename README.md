@@ -2,7 +2,7 @@
 title: Venetian Shadow Ledger
 emoji: 🏛️
 colorFrom: gray
-colorTo: black
+colorTo: blue
 sdk: docker
 app_file: app.py
 pinned: false
