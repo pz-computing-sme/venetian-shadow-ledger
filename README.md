@@ -19,7 +19,7 @@ The core objective is to demonstrate how a 10% reserve requirement (Basel Standa
 
 ## 🌐 Live Application
 You can access the real-time simulation here:  
-👉 **[Venetian Shadow Ledger on Hugging Face](https://huggingface.co/spaces/vitorpozza/venetian-shadow-ledger)**
+👉 **[Venetian Shadow Ledger on Hugging Face](https://huggingface.co/spaces/vpozza/venetian-shadow-ledger)**
 
 ## 🛠️ Technical Stack
 * **Language:** Python 3.9 (Dockerized)
