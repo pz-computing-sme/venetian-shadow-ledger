@@ -1,22 +1,32 @@
-![Wake Up App](https://github.com/pz-computing-sme/global-cocoa-market-analytics/actions/workflows/keep_alive.yml/badge.svg)
+---
+title: Venetian Shadow Ledger
+emoji: 🏛️
+colorFrom: gray
+colorTo: black
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
+![Sync to Hugging Face](https://github.com/pz-computing-sme/venetian-shadow-ledger/actions/workflows/sync_to_huggingface.yml/badge.svg)
 
 # 🏛️ The Venetian Protocol: Shadow Ledger Dashboard
 
 ## 📊 Overview
-This project is a technical exposé on the **Fractional Reserve Banking** system, modeled after the credit expansion protocols historically utilized by European banking dynasties (the 'Black Nobility').
+This project is a technical exposé on the **Fractional Reserve Banking** system, modeled after the credit expansion protocols historically utilized by European banking dynasties.
 
 The core objective is to demonstrate how a 10% reserve requirement (Basel Standard) acts as a money multiplier, creating systemic liquidity while simultaneously diluting the sovereignty of the underlying physical asset.
 
 ## 🌐 Live Application
 You can access the real-time simulation here:  
-👉 **[Venetian Shadow Ledger Dashboard](https://venetian-shadow-ledger.streamlit.app/)**
+👉 **[Venetian Shadow Ledger on Hugging Face](https://huggingface.co/spaces/vitorpozza/venetian-shadow-ledger)**
 
 ## 🛠️ Technical Stack
-* **Language:** Python 3.13.1
-* **Interface:** Streamlit (Cloud Deployment)
+* **Language:** Python 3.9 (Dockerized)
+* **Interface:** Streamlit (Hugging Face Spaces Deployment)
 * **Analytics:** Pandas for recursive data modeling
 * **Visualization:** Plotly Express for real-time leverage tracking
-* **Version Control:** Git CLI (Command Line Interface)
+* **Deployment:** Docker & GitHub Actions (CI/CD)
 
 ## 🧬 Applied Financial Logic
 The model follows a recursive lending cycle where:  
@@ -30,7 +40,7 @@ Each cycle calculates the **Asset Dilution Ratio**, showing the exact point wher
 2. Install requirements:  
    `pip install -r requirements.txt`
 3. Run the dashboard:  
-   `streamlit run venetian_logic.py`
+   `streamlit run app.py`
 
 ---
 *Developed as a demonstration of Applied Logic, Financial Engineering, and Quantitative Analysis by **Vitor Pozza**.*
