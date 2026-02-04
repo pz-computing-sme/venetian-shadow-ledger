@@ -7,7 +7,7 @@ import plotly.express as px
 # Concept: The Venetian Shadow Ledger - Exposing the fractional reserve 'Alchemy'
 # Author: V. Pozza (Vitor Pozza)
 # License: MIT
-# Copyright (c) 2026 V. Pozza
+# Copyright (c) 2026 Vitor Pozza
 # -----------------------------------------------------------------------------
 
 st.set_page_config(page_title="Venetian Shadow Ledger", layout="wide")
